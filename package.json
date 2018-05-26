@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "downLoadFile": "^0.2.4",
+    "fs": "^0.0.1-security",
+    "http": "^0.0.0",
+    "https": "^1.0.0",
+    "iconv-lite": "^0.4.23",
+    "path": "^0.12.7",
+    "request": "^2.86.0",
+    "url": "^0.11.0"
+  }
+}
